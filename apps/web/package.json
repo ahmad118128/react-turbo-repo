@@ -15,12 +15,18 @@
     "ui": "*"
   },
   "devDependencies": {
-    "config": "*",
-    "eslint": "7.32.0",
-    "next-transpile-modules": "9.0.0",
-    "tsconfig": "*",
     "@types/node": "^17.0.12",
     "@types/react": "17.0.37",
+    "config": "*",
+    "eslint": "7.32.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jest": "^26.1.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-testing-library": "^5.2.1",
+    "next-transpile-modules": "9.0.0",
+    "tsconfig": "*",
     "typescript": "^4.5.3"
   }
 }
