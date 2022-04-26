@@ -7,7 +7,7 @@ node_modules
 
 # testing
 coverage
-
+*/coverage
 # next.js
 .next/
 out/
@@ -31,3 +31,8 @@ yarn-error.log*
 
 # turbo
 .turbo
+
+
+#cypress
+cypress
+*/cypress
