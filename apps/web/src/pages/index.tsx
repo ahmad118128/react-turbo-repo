@@ -1,9 +1,9 @@
-import { Button } from 'ui';
+import { Button } from 'ui'
 
 const Web = () => (
   <div>
-    <h1>Web</h1>
+    <h1>Hello World</h1>
     <Button />
   </div>
-);
-export default Web;
+)
+export default Web
